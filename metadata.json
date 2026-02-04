@@ -1,0 +1,8 @@
+
+{
+  "name": "SocialStream Analytics",
+  "description": "A comprehensive social media management dashboard with real-time analytics, engagement tracking, and content scheduling capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
